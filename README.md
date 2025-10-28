@@ -81,3 +81,8 @@ Example output: Candidate A (Score = 92) — matches 85% of required skills, 5+ 
 Candidate B (Score = 78) — matches 70% of skills, 3 years experience, undergraduate degree.
 
 ---
+
+##  License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
