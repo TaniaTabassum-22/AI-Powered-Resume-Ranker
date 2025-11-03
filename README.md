@@ -51,25 +51,23 @@ Raw Resumes → NLP Pre-processing → Feature Extraction → Ranking Model → 
 ## 📥 Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/AI-Powered-Resume-Ranker.git  
+   git clone https://github.com/username/AI-Powered-Resume-Ranker.git  
    cd AI-Powered-Resume-Ranker
    ```
    
-2.Install dependencies:
-
-```bash
-pip install -r requirements.txt  
-```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt  
+   ```
 
 3. Prepare your resume dataset: place your resumes (PDF/DOCX/TXT) in the designated folder or adapt the script path.
 
 4. Configure settings: e.g., adjust weighting of skills vs experience in config or code.
 
 5. Run the main script:
-
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 6. View the output: a ranked list of candidates with scores and summary highlights.
 
