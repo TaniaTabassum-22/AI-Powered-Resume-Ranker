@@ -66,7 +66,7 @@ Raw Resumes → NLP Pre-processing → Feature Extraction → Ranking Model → 
 
 5. Run the main script:
    ```bash
-   python main.py
+    streamlit run main.py
    ```
 
 6. View the output: a ranked list of candidates with scores and summary highlights.
